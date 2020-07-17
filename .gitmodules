@@ -1,0 +1,3 @@
+[submodule "stream"]
+	path = stream
+	url = https://github.com/bart02/opencv_stream_tool.git
